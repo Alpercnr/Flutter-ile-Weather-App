@@ -21,7 +21,7 @@
 <img src="https://github.com/Alpercnr/Flutter-ile-Weather-App/assets/144992311/847833fb-3017-4c3c-b0e7-419716761621" width="20%"></img> 
 <img src="https://github.com/Alpercnr/Flutter-ile-Weather-App/assets/144992311/29fcdd43-59d9-4dae-8520-c1eb43b21139" width="20%"></img> 
 
-## API Docs   
+## API Dokümanları   
 > [!IMPORTANT] 
 > Bu proje OpenWeatherMap API'sinin **_version 2.5_** sürümünü kullanılmıştır</br>
 > **Bu projede kullanılan API Dökümanları**:</br>
