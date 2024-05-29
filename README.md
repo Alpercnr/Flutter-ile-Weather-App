@@ -5,7 +5,7 @@
 - Canlı hava durumu bilgisi
 - 5 günlük hava durumu tahmini
 - Şehir arama ve hava durumu bilgilerini görüntüleme
-- Kullanıcı dostu arayüz
+- Karanlık Tema ve Beyaz Tema
 
 ## Kullanılan Teknolojiler
 - Flutter
